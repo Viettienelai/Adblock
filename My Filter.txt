@@ -1,19 +1,19 @@
 ! Title: My Filter
 
 ||broadlyjukeboxunrevised.com
-animevietsub.bio###invideo_wrapper
-animevietsub.bio###mobile-catfish-top
-animevietsub.bio###mobile-catfixx
-animevietsub.bio##.Ads
-animevietsub.bio##.Copy
-animevietsub.bio##.Footer>p
-animevietsub.bio##.WebDescription
-animevietsub.bio##.ads_player
-animevietsub.bio##.announcement
-animevietsub.bio##.below-playerm
-animevietsub.bio##.header-ads-mobile
-animevietsub.bio##.social-button
-animevietsub.bio##div[style="width:100%"]
+animevietsub.one###invideo_wrapper
+animevietsub.one###mobile-catfish-top
+animevietsub.one###mobile-catfixx
+animevietsub.one##.Ads
+animevietsub.one##.Copy
+animevietsub.one##.Footer>p
+animevietsub.one##.WebDescription
+animevietsub.one##.ads_player
+animevietsub.one##.announcement
+animevietsub.one##.below-playerm
+animevietsub.one##.header-ads-mobile
+animevietsub.one##.social-button
+animevietsub.one##div[style="width:100%"]
 app.mediafire.com##button[title="Choose file(s) to upload"]
 app.mediafire.com##input[type="file"]
 app.mediafire.com##svg[height="20"]
