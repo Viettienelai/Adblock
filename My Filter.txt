@@ -2,11 +2,6 @@
 
 ||broadlyjukeboxunrevised.com
 
-app.mediafire.com##button[title="Choose file(s) to upload"]
-app.mediafire.com##input[type="file"]
-app.mediafire.com##svg[height="20"]
-app.mediafire.com##a[href="https://www.mediafire.com/customer_diagnosis/questionnaire.php"]
-
 dictionary.cambridge.org##.hcb
 fast.com###language-selector-btn
 fast.com###privacy-link
